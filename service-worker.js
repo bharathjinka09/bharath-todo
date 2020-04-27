@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bharath-todo/precache-manifest.c9d2a3060e8f42c78629b85fb8b9dc55.js"
+  "/bharath-todo/precache-manifest.8d37af6c85376d54d1dd1565bdaf038c.js"
 );
 
 self.addEventListener('message', (event) => {

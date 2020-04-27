@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14f914e3faa85066ad3173c9fc6a20eb",
+    "revision": "6e767d34717d46bab509cb75452915b6",
     "url": "/bharath-todo/index.html"
   },
   {
-    "revision": "269619d1198480fa1a52",
-    "url": "/bharath-todo/static/css/main.3502ac4d.chunk.css"
+    "revision": "3da4cb7f5226ced75ec3",
+    "url": "/bharath-todo/static/css/main.3ffc74aa.chunk.css"
   },
   {
     "revision": "2753490be274190f97b0",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bharath-todo/static/js/2.9bc38a1d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "269619d1198480fa1a52",
+    "revision": "3da4cb7f5226ced75ec3",
     "url": "/bharath-todo/static/js/main.6f019718.chunk.js"
   },
   {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bharath-todo/static/css/main.3502ac4d.chunk.css",
+    "main.css": "/bharath-todo/static/css/main.3ffc74aa.chunk.css",
     "main.js": "/bharath-todo/static/js/main.6f019718.chunk.js",
     "main.js.map": "/bharath-todo/static/js/main.6f019718.chunk.js.map",
     "runtime-main.js": "/bharath-todo/static/js/runtime-main.e25c8306.js",
@@ -8,16 +8,16 @@
     "static/js/2.9bc38a1d.chunk.js": "/bharath-todo/static/js/2.9bc38a1d.chunk.js",
     "static/js/2.9bc38a1d.chunk.js.map": "/bharath-todo/static/js/2.9bc38a1d.chunk.js.map",
     "index.html": "/bharath-todo/index.html",
-    "precache-manifest.c9d2a3060e8f42c78629b85fb8b9dc55.js": "/bharath-todo/precache-manifest.c9d2a3060e8f42c78629b85fb8b9dc55.js",
+    "precache-manifest.8d37af6c85376d54d1dd1565bdaf038c.js": "/bharath-todo/precache-manifest.8d37af6c85376d54d1dd1565bdaf038c.js",
     "service-worker.js": "/bharath-todo/service-worker.js",
-    "static/css/main.3502ac4d.chunk.css.map": "/bharath-todo/static/css/main.3502ac4d.chunk.css.map",
+    "static/css/main.3ffc74aa.chunk.css.map": "/bharath-todo/static/css/main.3ffc74aa.chunk.css.map",
     "static/js/2.9bc38a1d.chunk.js.LICENSE.txt": "/bharath-todo/static/js/2.9bc38a1d.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/bharath-todo/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e25c8306.js",
     "static/js/2.9bc38a1d.chunk.js",
-    "static/css/main.3502ac4d.chunk.css",
+    "static/css/main.3ffc74aa.chunk.css",
     "static/js/main.6f019718.chunk.js"
   ]
 }
