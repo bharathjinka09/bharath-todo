@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bharath-todo/static/css/main.4bcb7d6e.chunk.css",
+    "main.js": "/bharath-todo/static/js/main.019c5414.chunk.js",
+    "main.js.map": "/bharath-todo/static/js/main.019c5414.chunk.js.map",
+    "runtime-main.js": "/bharath-todo/static/js/runtime-main.e25c8306.js",
+    "runtime-main.js.map": "/bharath-todo/static/js/runtime-main.e25c8306.js.map",
+    "static/js/2.9bc38a1d.chunk.js": "/bharath-todo/static/js/2.9bc38a1d.chunk.js",
+    "static/js/2.9bc38a1d.chunk.js.map": "/bharath-todo/static/js/2.9bc38a1d.chunk.js.map",
+    "index.html": "/bharath-todo/index.html",
+    "precache-manifest.82d072fc1336e9cd193560dae01e2408.js": "/bharath-todo/precache-manifest.82d072fc1336e9cd193560dae01e2408.js",
+    "service-worker.js": "/bharath-todo/service-worker.js",
+    "static/css/main.4bcb7d6e.chunk.css.map": "/bharath-todo/static/css/main.4bcb7d6e.chunk.css.map",
+    "static/js/2.9bc38a1d.chunk.js.LICENSE.txt": "/bharath-todo/static/js/2.9bc38a1d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bharath-todo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e25c8306.js",
+    "static/js/2.9bc38a1d.chunk.js",
+    "static/css/main.4bcb7d6e.chunk.css",
+    "static/js/main.019c5414.chunk.js"
+  ]
+}
